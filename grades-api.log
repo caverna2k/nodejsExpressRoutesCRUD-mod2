@@ -1,0 +1,22 @@
+2020-08-10T00:34:34.467Z [grades-api.log] info: API Started!
+2020-08-10T00:34:47.135Z [grades-api.log] error: POST /grades - Student é obrigatório.
+2020-08-10T00:35:09.997Z [grades-api.log] error: PUT /grades - Error: Registro não encontrado.
+2020-08-10T00:36:03.063Z [grades-api.log] info: API Started!
+2020-08-10T00:37:30.628Z [grades-api.log] info: API Started!
+2020-08-10T00:42:12.365Z [grades-api.log] info: API Started!
+2020-08-10T00:42:37.157Z [grades-api.log] error: GET /grades - gradeUpdate is not defined
+2020-08-10T00:43:35.132Z [grades-api.log] info: API Started!
+2020-08-10T00:43:39.362Z [grades-api.log] error: GET /grades - res.status is not a function
+2020-08-10T00:44:08.736Z [grades-api.log] info: API Started!
+2020-08-10T00:52:22.894Z [grades-api.log] info: API Started!
+2020-08-10T00:52:47.752Z [grades-api.log] error: GET /grades - Invalid status code: NaN
+2020-08-10T00:53:25.234Z [grades-api.log] info: API Started!
+2020-08-10T00:54:57.142Z [grades-api.log] info: API Started!
+2020-08-10T00:55:04.674Z [grades-api.log] error: GET /grades - Invalid status code: 35
+2020-08-10T00:55:34.026Z [grades-api.log] info: API Started!
+2020-08-10T00:59:27.883Z [grades-api.log] info: API Started!
+2020-08-10T00:59:45.915Z [grades-api.log] info: API Started!
+2020-08-10T01:00:12.267Z [grades-api.log] info: API Started!
+2020-08-10T01:00:59.462Z [grades-api.log] info: API Started!
+2020-08-10T01:05:39.505Z [grades-api.log] info: API Started!
+2020-08-10T01:06:32.852Z [grades-api.log] info: API Started!
